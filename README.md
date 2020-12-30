@@ -18,4 +18,12 @@
   <img align="center" alt="Tahmeed's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 
+<hr/>
+<a href="https://github.com/thetahmeed">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tusharhow&theme=light&hide_langs_below=1" />
+</a>
+<a href="https://github.com/thetahmeed">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=tusharhow&show_icons=true&theme=light&line_height=27" alt="Tushar's github stats"/>
+</a>
+
 </div>
