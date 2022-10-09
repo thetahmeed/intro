@@ -4,9 +4,9 @@
 ## Best Place to make Mobile Apps
 ### I Believe that every app has the right to be Fast, Attractive, User Friendly, and Awesome
  
-[Get started](https://tahmeedul.com/get-started)
-[Visit my recent projects] (https://projects.tahmeedul.com)
-[My apps on Google Play Store] (http://googleplay.tahmeedul.com)
+[HIRE ME](https://tahmeedul.com/get-started) | 
+[MY RECENT PROJECTS](https://projects.tahmeedul.com) | 
+[MY APPS ON GOOGLE PLAY](http://googleplay.tahmeedul.com)
  
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/thetahmeed#9951) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TheTahmeed) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/TheTahmeed) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TheTahmeed) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thetahmeed) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheTahmeed) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TheTahmeed)
  
