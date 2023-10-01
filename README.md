@@ -34,7 +34,7 @@ Database<br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=
 </hr>
 
 ![](https://github-readme-stats.vercel.app/api?username=TheTahmeed&theme=dark&hide_border=false&include_all_commits=false&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=TheTahmeed&theme=dark&hide_border=false)<br/>
+<!--![](https://github-readme-streak-stats.herokuapp.com/?user=TheTahmeed&theme=dark&hide_border=false)<br/>-->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TheTahmeed&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 
