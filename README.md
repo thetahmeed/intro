@@ -14,22 +14,13 @@
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thetahmeed) 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/TheTahmeed) 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/TheTahmeed)
- 
+
+
+ ![](https://img.shields.io/static/v1?label=Profile+views&message=1,700,547,406+😏&color=blue)
+
 <hr/>
-Cross platform development<br><a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a>
 
-Native android development<br><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-
-Programming languages<br>
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-
-Backend<br>![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-
-Database<br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat&logo=sqlite&logoColor=white) 
+<a href="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLmT18XX40l9PgyAlAPsTMxcy98rePfpU7gbmKUmjXOxhmSq0SgdmzXf9JoW6IdyheQlhH6OWIsT3mVGOGMc6qeK_mVqJa9rHPdv12pa0odxUPEaJ2B-vKfMlrIn7ggKpXgAVj2l_DWsQccuAeaMeRgyPdLftNhPrQC1YXW0q1sacU94v9l4dEGReiRbdT/s900/GitHub%20Poster%20%282%29.gif" style="display: block; padding: 1em 0; text-align: center; "><img alt="" border="0" width="600" data-original-height="300" data-original-width="900" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjLmT18XX40l9PgyAlAPsTMxcy98rePfpU7gbmKUmjXOxhmSq0SgdmzXf9JoW6IdyheQlhH6OWIsT3mVGOGMc6qeK_mVqJa9rHPdv12pa0odxUPEaJ2B-vKfMlrIn7ggKpXgAVj2l_DWsQccuAeaMeRgyPdLftNhPrQC1YXW0q1sacU94v9l4dEGReiRbdT/s600/GitHub%20Poster%20%282%29.gif"/></a>
 
 </hr>
 
@@ -45,7 +36,6 @@ Database<br>![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/tahmeed) 
 -->
 
-![](https://img.shields.io/static/v1?label=Profile+views&message=1,700,547,406+😏&color=blue)
 
 
 </div>
