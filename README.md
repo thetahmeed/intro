@@ -1,7 +1,7 @@
 <div align="center">
 
 # Welcome to Tahmeed's Lab!
-## Best Place to make ~~Mobile~~ Apps
+## Best Place to make Mobile Apps
 ### I Believe that every app has the right to be Fast, Attractive, User Friendly, and Awesome
  
 [HIRE ME](https://tahmeedul.com/get-started) | 
