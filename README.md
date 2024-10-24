@@ -4,7 +4,7 @@
 ## Best Place to make Mobile Apps
 ### I Believe that every app has the right to be Fast, Attractive, User Friendly, and Awesome
  
-[HIRE ME](https://tahmeedul.com/get-started) | 
+[HIRE ME](mailto:tahmeedul@icloud.com) | 
 [MY RECENT PROJECTS](https://projects.tahmeedul.com) | 
 [MY APPS ON GOOGLE PLAY](http://googleplay.tahmeedul.com)
  
