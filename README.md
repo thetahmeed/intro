@@ -4,9 +4,6 @@
 ## Best Place to make Mobile Apps
 ### I Believe that every app has the right to be Fast, Attractive, User Friendly, and Awesome
  
-[HIRE ME](mailto:tahmeedul@icloud.com) | 
-[MY RECENT PROJECTS](https://projects.tahmeedul.com) | 
-[MY APPS ON GOOGLE PLAY](http://googleplay.tahmeedul.com)
  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/TheTahmeed) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/TheTahmeed) 
